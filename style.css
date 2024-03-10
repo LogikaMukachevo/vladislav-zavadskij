@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+     border:10px solid green;
+     font-size: 40px;
+}
+nav a{
+    border-radius: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color:aqua;
+    font-size: 30px;
+    border:10px solid green;
+    text-decoration:none;
+    margin:5px ;
+    padding: 5px;
+}
+
+nav{
+    text-align: center;
+
+}
+
+body {
+    background-color:darkcyan;
+    padding: 5px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+    border-radius: 30px;
+    border:10px solid green;
+    padding: 1px;
+}
+img {
+    border-radius: 40px;
+    border:10px solid green;
+    width:800px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    max-width:100%;
+    padding: 5px;
+    
+    
+}
+.lol{
+    background-color:aquamarine;
+}
+a{
+    text-decoration: none;
+}
